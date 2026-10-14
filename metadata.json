@@ -1,0 +1,6 @@
+{
+  "name": "BookShelf",
+  "description": "Native Android PDF library and reader featuring automatic organization, reading analytics, bookmarks, eye comfort, PDF store, and PDF-aware AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
